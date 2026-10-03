@@ -1,0 +1,7 @@
+{
+  "name": "Apple Experience",
+  "description": "Essays, systems engineering, and design philosophies by Derrick Ngure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
